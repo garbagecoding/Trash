@@ -1,15 +1,21 @@
 
 body{
-	background: #fcf5f4;
+	background: #E0E0E0;
 }
 
-.links{
+a:link{
+	text-decoration: none;
+	color: black;
+}
+
+a:active{
+	color: yellow;
+}
+
+#headLinks{
 	float: right;
 	font-family: sans-serif, "Arial";
-	padding-top: 15px;
-	padding-left: 7px;
-	padding-right: 8px;
+	padding: 12px;
 }
-
 
 
