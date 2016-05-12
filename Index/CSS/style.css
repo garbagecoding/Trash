@@ -8,8 +8,8 @@ a:link{
 	color: black;
 }
 
-a:active{
-	color: yellow;
+a:hover{
+	color: #A69D85;
 }
 
 #headLinks{
@@ -17,9 +17,20 @@ a:active{
 	font-family: sans-serif, "Arial";
 	padding: 12px;
 }
-
-.linkOne{
-	color: red;
+#headimage{
+	float:left;
+	padding: 50px;
+}
+h1{
+	float: left;
+	font-family: sans-serif, "Arial";
+	font-size: 100%;
+	padding: 20px;
+}
+h2{
+	float:left;
 }
 
 
+
+/* #82825A */
