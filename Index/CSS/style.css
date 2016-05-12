@@ -21,16 +21,18 @@ a:hover{
 	float:left;
 	padding: 50px;
 }
-h1{
+
+#logoName{
 	float: left;
-	font-family: sans-serif, "Arial";
-	font-size: 100%;
+	font-family: "BryantPro-Medium", Arial, Helvetica, sans-seif;
+	font-size: 1.05em;
+	letter-spacing: .2em;
 	padding: 20px;
 }
-h2{
-	float:left;
-}
 
+li{
+	list-style: none outside none;
+}
 
 
 /* #82825A */
