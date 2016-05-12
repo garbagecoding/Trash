@@ -14,12 +14,13 @@ a:hover{
 
 #headLinks{
 	float: right;
-	font-family: sans-serif, "Arial";
+	font-family: "BryantPro-Medium", Arial, Helvetica, sans-seif;
 	padding: 12px;
 }
-#headimage{
+
+#headerImg{
 	float:left;
-	padding: 50px;
+	padding: 20px;
 }
 
 #logoName{
@@ -27,11 +28,20 @@ a:hover{
 	font-family: "BryantPro-Medium", Arial, Helvetica, sans-seif;
 	font-size: 1.05em;
 	letter-spacing: .2em;
-	padding: 20px;
+	padding: 10px;
+}
+
+#logoTitle{
+	float: left;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-style: oblique;
+	font-size: 1.05em;
+	line-height: 120%;
 }
 
 li{
 	list-style: none outside none;
+
 }
 
 
