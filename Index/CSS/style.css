@@ -8,19 +8,19 @@ a:link{
 	color: black;
 }
 
-a:hover{
-	color: #A69D85;
+#headlinks a:hover{
+	color: red;
 }
 
 #headLinks{
 	float: right;
 	font-family: "BryantPro-Medium", Arial, Helvetica, sans-seif;
-	font-size: 75%;
+	font-size: 86%;
 	font-weight: 500;
 	letter-spacing: .2em;
 	text-transform: uppercase;
 	padding: 12px;
-	padding-top: 25px;
+	padding-top: 15px;
 	display: inline-block;
 }
 
@@ -60,7 +60,7 @@ li{
 
 
 /* 
-#928452 - Link 1 color
+#928452 - text color
 #82825A 
 padding: 10px, 10px, 10px, 30px
 */
