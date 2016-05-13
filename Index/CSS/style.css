@@ -8,10 +8,6 @@ a:link{
 	color: black;
 }
 
-#headlinks a:hover{
-	color: red;
-}
-
 #headLinks{
 	float: right;
 	font-family: "BryantPro-Medium", Arial, Helvetica, sans-seif;
